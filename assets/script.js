@@ -22,7 +22,7 @@ function promptpwd(){
 // Confirm whether or not to include lowercase and uppercase or only one type.     
 if(passwordMax >= 8){
 
-    var typoOptions = prompt("Choose type of characters: \nUpper + Lower Case [ m ] \nOnly UpperCase [ u ] \nOnly LowerCase [ l ]");
+    var typoOptions = prompt("Choose type of characters: \nUpper + Lower Case [ M ] \nOnly UpperCase [ U ] \nOnly LowerCase [ L ]").toLowerCase();
     
     if(typoOptions === "l") {
       console.log(typoOptions + " Lowercase");
@@ -42,15 +42,15 @@ if(passwordMax >= 8){
 
 // Confirm whether or not to include numeric, and/or special characters.
 if(typoOptions === "m" || typoOptions === "u" || typoOptions === "l"  ){
-      var specialnumeric = prompt("Do you want to include numeric and special characters? Answer yes or no ");
+      var specialnumeric = prompt("Do you want to include numeric and special characters? Answer yes or no ").toLowerCase();
 
       console.log(specialnumeric + " 4");
       if(specialnumeric === "no"){
-      var numeric = prompt("Do you only want to include numeric characters? Answer yes or no");
+      var numeric = prompt("Do you only want to include numeric characters? Answer yes or no").toLowerCase();
       }
 
       if (numeric === "no"){
-      var specialchar = prompt("Do you only want to include speacial characters? Answer yes or no");
+      var specialchar = prompt("Do you only want to include speacial characters? Answer yes or no").toLowerCase();
       }
 
      if(specialchar === "no") {

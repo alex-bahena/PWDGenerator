@@ -8,7 +8,7 @@ To generate the password is needed to  answer all the questions as the prompts a
 First prompt: Please choose length of password (8 - 128 characters):
 You will need to type the lenght of your password wich is minimum 8 and maximum 128 characters.
 
-Next Promot: Choose type of characters: 
+Next Prompt: Choose type of characters: 
 You will have 3 options wich is M, U, L.
 
 M = Mixed Uppercase and Lowercase.

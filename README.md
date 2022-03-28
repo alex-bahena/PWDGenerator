@@ -12,8 +12,8 @@ Next Promot: Choose type of characters:
 You will have 3 options wich is M, U, L.
 
 M = Mixed Uppercase and Lowercase.
-U = only Uppercase.
-L = only Lowercase.
+U = Only Uppercase.
+L = Only Lowercase.
 
 And then the following prompt will popup. Do you want to include numeric and special characters? Answer yes or no.
 Here you will need to choose yes, if you want to generate a password mixed with numeric and special characters.
@@ -26,6 +26,7 @@ In this one you will need to choose yes, otherwise the program will understand t
 answer with an alert that says, Invalid, i cannot generate your password, please try again.
 
 This point, following on the Readme criteria.
+
 
 
 

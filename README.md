@@ -27,6 +27,7 @@ answer with an alert that says, Invalid, i cannot generate your password, please
 
 This point, following on the Readme criteria.
 
+https://github.com/AlejandroBahSan/PWDGenerator/blob/8e3a26171fd0989fb1c43b4314e78cd71963abe0/PWDGenerator.jpg
 
 
 

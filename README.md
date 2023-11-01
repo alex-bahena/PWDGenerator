@@ -1,7 +1,7 @@
 # PWDGenerator
 
 
-Please visit the deployed project at: https://alejandrobahsan.github.io/PWDGenerator/
+Please visit the deployed project at: [https://alejandrobahsan.github.io/PWDGenerator/](https://alex-bahena.github.io/PWDGenerator/)
 
 
 
